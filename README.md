@@ -120,5 +120,3 @@ This makes it an ideal dataset for demonstrating multi-class classification conc
 ## 🏁 Conclusion
 
 The Softmax Function is a fundamental component of machine learning and deep learning classification models. By transforming raw model outputs into probabilities, it enables models to make meaningful predictions across multiple classes. This project provides both theoretical understanding and practical implementation of Softmax using the Iris dataset.
-
-
